@@ -22,8 +22,8 @@ Led a project focused on leveraging data analytics to optimize e-commerce operat
 ### Data Sources
 ---
 
-In this analysis two data sets were used which contained detailed information about the Olist Store.
-- "E-Commerce.csv"
+In this analysis I used multiple datasets and combined it which contained detailed information about the Olist Store.
+- "E_Commerce.xlsx"
 ### Tools
 ---
 - Excel - Data Cleaning
