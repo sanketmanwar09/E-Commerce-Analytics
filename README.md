@@ -22,9 +22,8 @@ Led a project focused on leveraging data analytics to optimize e-commerce operat
 ### Data Sources
 ---
 
-In this analysis two data sets were used which contained detailed information about the bank.
-- "Finance_1.csv"
-- "Finance_2.csv"
+In this analysis two data sets were used which contained detailed information about the Olist Store.
+- "E-Commerce.csv"
 ### Tools
 ---
 - Excel - Data Cleaning
