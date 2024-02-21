@@ -174,6 +174,12 @@ The analysis results are summarized as follows:
     ###### Voucher 2141,
     ###### Debit card 916
 
+- Average shipping days for overall store products is 12.09 and Average reviewscore is 4.09.
+- For Sau Paulo city Average price is 120.65 and Average payment value 154.10
+- In weekdays the payment done is more approximately 12Mn(77%) and on weekend it is 4Mn(23%)
+
+
+
 
 
 
