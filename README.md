@@ -167,7 +167,13 @@ The analysis results are summarized as follows:
   ###### 2018 March:  1123356.38,
   ###### 2018 Aug :  1120792.94
   ###### 2018 January:  1060219.38
-  
+
+- Total orders with review score 5 and Payment type:
+   ###### Credit card 43792 followed by
+   ###### Boleto 11227,
+    ###### Voucher 2141,
+    ###### Debit card 916
+
 
 
 
