@@ -143,7 +143,7 @@ GROUP BY review_score;
 POWER BI
 
 ```
-![](loan_status.jpg)
+![]
 
 
 
