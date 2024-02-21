@@ -1,8 +1,5 @@
 # E-Commerce-Analytics
 
-# Bank Analytics 
-
-![](bankimage.jpg)
 
 
 ## Table of Contents
@@ -143,7 +140,11 @@ GROUP BY review_score;
 POWER BI
 
 ```
-![]
+## DASHBOARD
+![](Ecommerce.png)
+
+## MODELVIEW
+![](ModelView.png)
 
 
 
