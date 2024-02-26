@@ -113,7 +113,7 @@ FROM
         JOIN
     items_dataset i ON o.order_id = i.order_id
         JOIN
-    payments_dataset ON o.order_id = p.order_id
+    payments_dataset p ON o.order_id = p.order_id
 WHERE
     c.city = 'Sau Paulo';
     
