@@ -142,8 +142,7 @@ POWER BI
 ## DASHBOARD
 ![](Ecommerce.png)
 
-## MODELVIEW
-![](ModelView.png)
+
 
 
 
